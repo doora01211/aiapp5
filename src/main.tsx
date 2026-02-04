@@ -1,3 +1,4 @@
+console.log("MAIN TSX RUNNING");
 <!DOCTYPE html>
 <html lang="en">
   <head>
