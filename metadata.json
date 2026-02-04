@@ -1,0 +1,8 @@
+
+{
+  "name": "PetPersona AI - The Identity Generator",
+  "description": "Transform your pet into a social identity character with AI-generated memes, stickers, and personality profiles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
